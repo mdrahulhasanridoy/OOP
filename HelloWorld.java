@@ -3,3 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World! It's Java!");
     }
 }
+
+// > bash     <---Output--->
+// > Hello World! It's Java!
